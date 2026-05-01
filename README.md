@@ -103,7 +103,19 @@ kiosk/
 
 ---
 
+
+
 ## Installation (Raspberry Pi)
+
+Hardware Reference (tested setup)
+
+- Raspberry Pi 2 Model B
+- Official Raspberry Pi Touch Display (800×480, landscape)
+- AM2302 / DHT22 temperature & humidity sensor
+- WS2812 / NeoPixel LEDs (~100 LEDs)
+- External 5V / 10A power supply
+- Level shifter for NeoPixel data line
+
 
 1. Copy the project to:
 /home/pi/kiosk
