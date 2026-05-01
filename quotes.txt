@@ -1,0 +1,5 @@
+quotes.txt
+Ein ruhiger Atem klärt den Kopf.
+Heute ist ein guter Tag für kleine Schritte.
+Gelassenheit ist eine Superkraft.
+Nicht alles muss sofort gelöst werden.

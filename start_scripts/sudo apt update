@@ -1,0 +1,10 @@
+sudo apt update
+sudo apt install python3-pip
+pip3 install Adafruit_DHT
+
+install python3-rpi-ws281x
+
+// DATA → GPIO4
+// VCC → 3.3 V
+// GND → GND
+// Pull‑Up (4.7–10 kΩ) zwischen DATA und VCC empfohlen
